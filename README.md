@@ -15,3 +15,8 @@ If you are developing a production application, we recommend using TypeScript wi
 ## About Loan Calculator App
 This Loan Calculator App is a modern, single-page web application built using React JS and Material UI. It allows users to calculate loan EMIs (Equated Monthly Installments), view a detailed amortization
 schedule, and see real-time currency conversions of their EMI using live exchange rates.
+
+## Dependencies installed
+    1. React Router
+    2. Axios
+    3. Material UI
