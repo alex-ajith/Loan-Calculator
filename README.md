@@ -20,3 +20,9 @@ schedule, and see real-time currency conversions of their EMI using live exchang
     1. React Router
     2. Axios
     3. Material UI
+
+## Git Hub Repository Link
+    [https://github.com/alex-ajith/Loan-Calculator]
+
+## Live Site Link
+    [https://loan-calculator-assess.netlify.app/]
